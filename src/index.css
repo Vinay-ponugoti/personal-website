@@ -26,16 +26,7 @@ code {
   margin: 0 auto;
 }
 
-/* ------------------------------------------------------ */
 /* -- Navigation -- */
-
-/* header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-
-  padding: 0 25px;
-} */
 
 .header,
 .about,
@@ -46,7 +37,6 @@ code {
   padding: 50px 25px 25px;
 }
 
-/* ------------------------------------------------------ */
 /* -- Header -- */
 
 .header {
@@ -82,7 +72,6 @@ code {
   margin: 25px auto 0;
 }
 
-/* ------------------------------------------------------ */
 /* -- About -- */
 
 .about h2 {
@@ -96,7 +85,6 @@ code {
   max-width: 75ch;
 }
 
-/* ------------------------------------------------------ */
 /* -- Projects -- */
 
 .projects h2 {
@@ -153,7 +141,6 @@ code {
   padding-right: 127px;
 }
 
-/* ------------------------------------------------------ */
 /* -- Education/Experience -- */
 
 .experience h2 {
@@ -171,7 +158,6 @@ code {
   margin: 15px auto;
 }
 
-/* ------------------------------------------------------ */
 /* -- Social Media -- */
 
 .social h2 {
@@ -180,36 +166,28 @@ code {
 }
 
 .social .button {
-  margin: 0 15px;
+  margin: 15px 2px;
   
 }
 
-/* ------------------------------------------------------ */
 /* -- Footer -- */
 .footer {
   margin: 0 auto;
   text-align: center;
 }
 
-/* ------------------------------------------------------ */
+
 /* -- HTML COMPONENTS: BUTTON -- */
 .button {
   display: inline-block;
-
   background: #12BDF3;
-
   padding: 15px 50px;
-
-  border: none;
   border-radius: 8px;
-
   font-family: "Work Sans";
   font-size: 16px;
   font-weight: 700;
   text-decoration: none;
-
   cursor: pointer;
-
   transition: all 250ms ease;
 }
 

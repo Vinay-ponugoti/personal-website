@@ -17,6 +17,12 @@ const Experience = () => {
                     </ul>
                 </li>
                 <li>
+                    <i>Internship in NullClass</i>
+                    <ul>
+                        <li>NullClass has taught me how to create projects for the real world from beginning.</li>
+                    </ul>
+                </li>
+                <li>
                     <i>International Internship in Data Science</i>
                     <ul>
                         <li>By Andhra Pradesh State Skill Development Corporation <a href="https://drive.google.com/file/d/1vTWJjwLJ0tfCCFKz_F8EnT87Ao8t0EXO/view">Link</a></li>

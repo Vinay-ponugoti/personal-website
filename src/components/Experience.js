@@ -7,7 +7,7 @@ const Experience = () => {
                 <li>
                     <i>Vellore institute of Technology(AP)</i>, 2019-2023
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>Graduated with 7.4 CGPA</li>
                     </ul>
                 </li>
                 <li>

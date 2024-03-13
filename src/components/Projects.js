@@ -1,6 +1,7 @@
 // Import Assets
 import plant from '../assets/plant.jpg';
 import stack from '../assets/Stack.png';
+import vote from '../assets/voting.png';
 
 
 const Projects = () => {
@@ -21,7 +22,7 @@ const Projects = () => {
                 
                 <div className="projects__card">
                     <h3><strong>Decentralised-voting-app</strong></h3>
-                    <img src={stack} alt="stack-overflow" />
+                    <img src={vote} alt="Voteing" />
                     <p>Stack Overflow is a question and answer website for programmers to share their knowledge and expertise with others.
                          Users can ask and answer technical questions, share code snippets, and collaborate on solutions to programming problems. 
                          </p>

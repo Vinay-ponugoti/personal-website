@@ -22,12 +22,12 @@ const Projects = () => {
                     {/* <a className="button">Result</a> */}
                 </div>
 
-
+                
                 <div className="projects__card">
                     <h3><strong>Stackoverflow-Clone</strong></h3>
                     <img src={stack} alt="stack-overflow" />
-                    <p>DApp voting app: Redefining decision-making through transparent, secure, and collaborative voting processes. 
-                        Empower users to actively engage in decentralized governance, ensuring impactful and transparent outcomes for all participants. 
+                    <p>Stack Overflow is a question and answer website for programmers to share their knowledge and expertise with others.
+                         Users can ask and answer technical questions, share code snippets, and collaborate on solutions to programming problems. 
                          </p>
                     <a href="https://github.com/Vinay-ponugoti/Plant-Disease-Detection" target="_blank" className="button">Code</a>
                     {/* <a className="button">Result</a> */}
@@ -36,9 +36,7 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3><strong>Decentralised-voting-app</strong></h3>
                     <img src={vote} alt="Voteing" />
-                    <p>Stack Overflow is a question and answer website for programmers to share their knowledge and expertise with others.
-                         Users can ask and answer technical questions, share code snippets, and collaborate on solutions to programming problems. 
-                         </p>
+                    <p>DApp voting app: Redefining decision-making through transparent, secure, and collaborative voting processes. Empower users to actively engage in decentralized governance, ensuring impactful and transparent outcomes for all participants. </p>
                     <a href="https://github.com/Vinay-ponugoti/Decentralised-voting-app.git" target="_blank" className="button">Code</a>
                     {/* <a className="button">Result</a> */}
                 </div>

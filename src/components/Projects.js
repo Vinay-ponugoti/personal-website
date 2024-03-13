@@ -1,7 +1,7 @@
 // Import Assets
 import plant from '../assets/plant.jpg';
 import stack from '../assets/Stack.png';
-import vote from '../assets/voting.png';
+import vote from '../assets/voteing.png';
 
 
 const Projects = () => {
